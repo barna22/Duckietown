@@ -2,6 +2,7 @@
 Duckietown reinforcement learning project
 
 Team name: Syntax Terror
+
 Members:
 - Istenes Dóra PQ08W1
 - Kenesei Benjámin MS725L
