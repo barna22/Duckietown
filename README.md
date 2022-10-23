@@ -14,5 +14,7 @@ The repository contains the simulation environment, and the scripts and configur
 
 ## Setup and running
 
-After installing the packages specified in the requirements file, the 
+After installing the packages specified in the requirements file, the simulation environment can be started with the following command:
+
+python manual_control.py --env-name Duckietown-udem1-v0
 
