@@ -29,4 +29,13 @@ After fixing several errors related to outdated code, and moving train_reinforce
 
 The training should finish like this:
 
+![image](https://user-images.githubusercontent.com/40472516/202923952-35df96a2-e2d0-4e7c-b5b4-fbd95db45a7d.png)
+
+This generates a model in the following folder: learning/reinforcement/pytorch/models.
+
+Evaluation is done by running the following script, which simulates the agent:
+
+```python3 enjoy_reinforcement.py```
+
+
 
