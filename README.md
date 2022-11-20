@@ -27,3 +27,6 @@ After fixing several errors related to outdated code, and moving train_reinforce
 
 ```python3 train_reinforcement.py```
 
+The training should finish like this:
+
+
