@@ -33,9 +33,11 @@ The training should finish like this:
 
 This generates a model in the following folder: learning/reinforcement/pytorch/models.
 
-Evaluation is done by running the following script, which simulates the agent:
+Evaluation is done by running the following script, which simulates the agent in the environment:
 
 ```python3 enjoy_reinforcement.py```
+
+Metrics can also be found in the results folder, in the rewards.npz file.
 
 
 
