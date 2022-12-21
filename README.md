@@ -3,6 +3,9 @@ Duckietown reinforcement learning project
 
 Team name: Syntax Terror
 
+Medium cikket fogunk írni, valamint már van aláírásunk előző félévből, Csapó Tamás Gáborral megbeszéltük, hogy leadhatjuk vizsgáig leadhatjuk.
+
+
 Members:
 - Istenes Dóra PQ08W1
 - Kenesei Benjámin MS725L
