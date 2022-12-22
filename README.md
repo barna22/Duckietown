@@ -3,7 +3,7 @@ Duckietown reinforcement learning project
 
 Team name: Syntax Terror
 
-Medium cikket fogunk írni, valamint már van aláírásunk előző félévből, Csapó Tamás Gáborral megbeszéltük, hogy leadhatjuk vizsgáig leadhatjuk.
+Medium cikket fogunk írni, valamint már van aláírásunk előző félévből, Csapó Tamás Gáborral megbeszéltük, hogy leadhatjuk a vizsgáig a házit.
 
 
 Members:
